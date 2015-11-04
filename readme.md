@@ -11,3 +11,7 @@
 * 5.[search in strings](./ch11/5.cpp)
 * 6.[search in matrix](https://github.com/gzc/CLRS/blob/6a6dfaf88ea60a53c45ee4260fd36284c0e4fbb5/C06-Heapsort/young.cpp)
 * 7.[maximum people](./ch11/7.cpp)
+
+### [chapter 18 (Hard)](./ch11)
+* 1.[count digit two](./ch18/4.cpp)
+
