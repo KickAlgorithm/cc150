@@ -29,6 +29,7 @@
 * 3.[Missing Number](./ch10/3.md)
 * 4.[Find Duplicate](./ch10/4.md)
 * 5.[Web Crawler](./ch10/5.md)
+* 6.[Find Duplicate URLs](./ch10/6.md)
 
 
 
