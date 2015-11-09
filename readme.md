@@ -19,6 +19,11 @@
 * 6.[Detect Cycle](./ch02/6.cpp)
 * 7.[isPalindrome](./ch02/7.cpp)
 
+### [chapter 3 (Stacks and Queues)](./ch02)
+* 1.[Array with 3 Stacks](./ch03/3-1.png) picture come from [stackoverflow](http://stackoverflow.com/questions/4770627/how-to-implement-3-stacks-with-one-array)
+* 2.[Min Stack](./ch03/2.cpp)
+
+
 
 ### [chapter 9 (Recursion and Dynamic Programming)](./ch11)
 * 10.[maximum boxes](./ch09/10.cpp)
