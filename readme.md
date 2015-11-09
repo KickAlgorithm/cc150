@@ -7,6 +7,7 @@
 * 4.[Replace Spaces](./ch01/4.cpp)
 * 5.[string compression](./ch01/5.cpp)
 * 6.[Rotate Matrix](./ch01/6.cpp)
+* 7.[Set Zero](./ch01/7.cpp)
 
 ### [chapter 9 (Recursion and Dynamic Programming)](./ch11)
 * 10.[maximum boxes](./ch09/10.cpp)
