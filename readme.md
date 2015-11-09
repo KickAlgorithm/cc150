@@ -30,6 +30,7 @@
 * 4.[Find Duplicate](./ch10/4.md)
 * 5.[Web Crawler](./ch10/5.md)
 * 6.[Find Duplicate URLs](./ch10/6.md)
+* 7.[Do query](./ch10/7.md)
 
 
 
