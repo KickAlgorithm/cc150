@@ -25,6 +25,7 @@
 
 ### [chapter 10 (Scalability and Memory Limits)](./ch11)
 * 1.[Distribute Data](./ch10/1.md)
+* 2.[Distribute Data](./ch10/2.md)
 
 
 
