@@ -23,6 +23,10 @@
 ### [chapter 9 (Recursion and Dynamic Programming)](./ch11)
 * 10.[maximum boxes](./ch09/10.cpp)
 
+### [chapter 10 (Scalability and Memory Limits)](./ch11)
+* 1.[Distribute Data](./ch10/1.md)
+
+
 
 ### [chapter 11 (Sorting and Searching)](./ch11)
 * 1.[merge array](./ch11/1.cpp)
