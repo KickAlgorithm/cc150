@@ -10,6 +10,10 @@
 * 7.[Set Zero](./ch01/7.cpp)
 * 8.[isRotation](./ch01/8.cpp)
 
+### [chapter 1 (Linked Lists)](./ch02)
+* 1.[Remove Duplicate](./ch02/1.cpp)
+
+
 ### [chapter 9 (Recursion and Dynamic Programming)](./ch11)
 * 10.[maximum boxes](./ch09/10.cpp)
 
