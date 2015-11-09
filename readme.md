@@ -5,6 +5,7 @@
 * 2.[reverse string](./ch01/2.cpp)
 * 3.[is Permutation](./ch01/3.cpp)
 * 4.[Replace Spaces](./ch01/4.cpp)
+* 5.[string compression](./ch01/5.cpp)
 
 ### [chapter 9 (Recursion and Dynamic Programming)](./ch11)
 * 10.[maximum boxes](./ch09/10.cpp)
