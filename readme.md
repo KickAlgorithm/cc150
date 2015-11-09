@@ -22,6 +22,7 @@
 ### [chapter 3 (Stacks and Queues)](./ch02)
 * 1.[Array with 3 Stacks](./ch03/3-1.png) picture come from [stackoverflow](http://stackoverflow.com/questions/4770627/how-to-implement-3-stacks-with-one-array)
 * 2.[Min Stack](./ch03/2.cpp)
+* 3.[Clustered Stacks](./ch03/3.cpp)
 
 
 
