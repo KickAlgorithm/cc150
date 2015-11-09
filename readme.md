@@ -27,6 +27,7 @@
 * 1.[Distribute Data](./ch10/1.md)
 * 2.[Social Network Graph](./ch10/2.md)
 * 3.[Missing Number](./ch10/3.md)
+* 4.[Find Duplicate](./ch10/4.md)
 
 
 
