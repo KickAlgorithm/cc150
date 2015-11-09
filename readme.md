@@ -17,6 +17,7 @@
 * 4.[Partition List](./ch02/4.cpp)
 * 5.[Add Two Number](./ch02/5.cpp)
 * 6.[Detect Cycle](./ch02/6.cpp)
+* 7.[isPalindrome](./ch02/7.cpp)
 
 
 ### [chapter 9 (Recursion and Dynamic Programming)](./ch11)
