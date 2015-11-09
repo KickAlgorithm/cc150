@@ -12,6 +12,7 @@
 
 ### [chapter 1 (Linked Lists)](./ch02)
 * 1.[Remove Duplicate](./ch02/1.cpp)
+* 2.[Kth to the last](./ch02/2.cpp)
 
 
 ### [chapter 9 (Recursion and Dynamic Programming)](./ch11)
