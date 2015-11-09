@@ -24,6 +24,7 @@
 * 2.[Min Stack](./ch03/2.cpp)
 * 3.[Clustered Stacks](./ch03/3.cpp)
 * 4.[Tower of Hanoi](./ch03/4.cpp)
+* 5.[Queue Using Stack](./ch03/5.cpp)
 
 
 
